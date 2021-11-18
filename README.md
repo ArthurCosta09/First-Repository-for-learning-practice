@@ -11,3 +11,4 @@ git push origin branch-name,
 git checkout branch-name,
 git merge branch-name,
 git pull origin branch-name.
+cat id_rsa.pub
